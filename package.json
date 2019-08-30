@@ -1,0 +1,23 @@
+{
+  "name": "azure-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexWil/azure-tutorial.git"
+  },
+  "author": "Alexander Wilts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexWil/azure-tutorial/issues"
+  },
+  "homepage": "https://github.com/AlexWil/azure-tutorial#readme"
+}
